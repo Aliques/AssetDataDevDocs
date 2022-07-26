@@ -3,7 +3,7 @@
 1. Перейти по ссылке https://developers.facebook.com
 2. Перейти по ссылке “Начать работу” или ”MyApps” (в зависимости от локализации)
 
-![fimage9](/img/fimage9.png)
+![fimage9](./img/fimage9.png)
 
 ![fimage5](/img/fimage5.png)
 
